@@ -1441,6 +1441,7 @@ header .navbar ul li a:hover {
     list-style: none;
     /* margin-right: 130px; */
     display: flex;
+    display: none;
   }
 }
 
